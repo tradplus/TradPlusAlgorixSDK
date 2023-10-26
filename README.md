@@ -1,1 +1,1 @@
-# TradPlusKidozAlgorixSDK
+# TradPlusAlgorixSDK
