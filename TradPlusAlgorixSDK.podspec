@@ -19,10 +19,5 @@
   
   valid_archs = ['x86_64', 'arm64']
 
-  s.default_subspec = 'XCPrebidMobile'
-
-  s.subspec 'XCPrebidMobile' do |ss|
-    ss.vendored_frameworks = ['Algorix/XCPrebidMobile.xcframework']
-    ss.preserve_paths = 'Algorix/XCPrebidMobile.xcframework'
-  end
+  s.vendored_frameworks = 'Algorix/PrebidMobile.xcframework'
 end
