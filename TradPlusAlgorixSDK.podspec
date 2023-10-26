@@ -9,7 +9,7 @@
   s.homepage         = 'https://github.com/tradplus/TradPlusAlgorixSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'TradPlus' => 'ios' }
-  s.source           = { :git => 'https://github.com/tradplus/TradPlusAlgorixSDK.git', :tag => 5.0 }
+  s.source           = { :git => 'https://github.com/tradplus/TradPlusAlgorixSDK.git', :tag => s.version }
   
   s.ios.deployment_target = '11.0'
   
